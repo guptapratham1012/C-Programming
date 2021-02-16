@@ -32,11 +32,6 @@ void print()
         }
     }
 }
-
-
-
-
-
 int main()
 {
     int i,ch,eno;
@@ -48,7 +43,6 @@ int main()
         strcpy(emp[i].departmentname," ");
         emp[i].salary=0;
     }
-
     for(;;)
     {
         printf("\n---------------------------------------\n");
